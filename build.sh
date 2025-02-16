@@ -1,1 +1,1 @@
-echo "aaa" > index.html
+echo "aaarghhh" > index.html
